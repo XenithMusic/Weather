@@ -1,0 +1,3 @@
+import generatestartingweather
+
+generatestartingweather.start()
